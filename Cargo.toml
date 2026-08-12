@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT OR Apache-2.0"
 description = "A Rust and Git aware diff command. Compare a single Rust item across files, modules and git refs."
+repository = "https://github.com/t4lz/differs"
 keywords = ["diff", "git", "rust-analyzer", "refactor", "review"]
 categories = ["development-tools"]
 
